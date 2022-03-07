@@ -1,4 +1,6 @@
 # Drafting-Tools_Vectorworks
+# Updated March 7th , 2022 By 7lights.
+
 Tool collections for Vectorworks drating. There are three tools on this version.
 
 Bitmap Rescale:
@@ -16,4 +18,9 @@ Create Color Palette:
   * Import a color palette (XML file)
 
 
-##Updated March 7th , 2022
+HOW TO INSTALL
+
+* Download drafting tools zip file, Do NOT unzip the file.
+* In Vectorworks, TOOLS > PLUG-INS > PLUG-IN MANAGER > THIRD PARTY PLUG IN, hit INSTALL, selected drafting tool zipfile, then click ok.
+* Relaunch Vectorworks. 
+* After relaunch vectorworks, nevegating to edit workspace. Under command tab, find 7Lights, then drag drafting tools into your workspace. 
